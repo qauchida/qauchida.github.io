@@ -2,60 +2,19 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: SHA-1
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - C
+  - encryption
+summary: A SHA-1 encryption project for ICS 212.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+So far, I have written about my success. Now I will truly recognize my shortcomings. For ICS 212, the final project required students to implement SHA-1 encryption on various text files. Secure Hash Algorithm 1 is an encryption algorithm composed by the NSA that takes a file as input and cuts up the bit strings composing the text. It then moves around the cut-up bit strings and gives what seems like random garbage as the output. If you have ever handled SHA-1 or any of its descendants (SHA-2, SHA-3), then it is clear by my description of it, that I’ve failed to completely grasp it. I received a “F” on the project but still somehow managed to pass the class.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+ During my time of enrollment in ICS 212 I was concurrently taking ICS 211, which happens to be a pre-requisite for ICS 212. However, my instructor felt that I did well enough in ICS 111 to warrant granting me an override to take the two classes at the same time. Being in both classes gave me an air of confidence which soon turned to cockiness. In my fit of arrogance, I convinced myself I could start assignments for 211 and 212 the night before they were due. My mentality put me at a disadvantage when I became overwhelmed by the impending deadline and the complexity of certain assignments, including the infamous SHA-1. Like many students, I ignored my instructor when she would hint that a certain assignment would be very useful for the final or that SHA-1 takes a lot of planning and time. It was only in the throes of regret 5 minutes before the deadline that I realized I should have headed her advice. In short, the entire experience taught me what not to do.
+ 
+When final grades were released, I found myself left with mixed feelings. I had passed the course by the skin of my teeth but felt dejected that my raw talent wasn’t able to carry me through a tough project. I wallowed in self-doubt because of this obstacle that I failed to overcome, whereas I had triumphed in programming thus far. And yet, here I am writing this piece for ICS 314, armed with the lessons of my defeat. Although I may have fallen, I refuse to stay down. Instead, I’ve used my disastrous SHA-1 experience to aid me in success such as in ICS 484. While the most valuable lesson I learned was about what not to do, I gained more than just that. I took away a refined mental fortitude that was forged from failure. There is no doubt in my mind that I will eventually fail again. However, when I do, I will overcome it just as I have now. 
 
