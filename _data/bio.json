@@ -96,7 +96,7 @@
         "Deploy software to computer lab machines using PDQ deploy.",
         "Creating an OS image and deploying OS image over a domain.",
         "Configuiring a network consisting of at the minimum: a switch, 6 vlans, a firewall and an access point.",
-        "Managing a switch through SSH, console connection and Telnet connection. 
+        "Managing a switch through SSH, console connection and Telnet connection. ",
         "Securely erasing sensitive information on hard drives.",
         "Assisted members of the ICS department with various troubleshooting tasks."
       ]
