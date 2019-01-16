@@ -50,25 +50,24 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "proficient",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows 10 Pro",
+        "Windows Server 2012",
+        "Windows Active Directory",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
@@ -86,27 +85,34 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii Department of Information Computer Science IT Help Desk",
+      "position": "Student Help Desk",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Student assitant to full time employees",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Creating new User accounts every semester using Active Directory, Powershell scripts and Windows Batch files.",
+        "Deploy software to computer lab machines using PDQ deploy.",
+        "Creating an OS image and deploying OS image over a domain.",
+        "Configuiring a network consisting of at the minimum: a switch, 6 vlans, a firewall and an access point.",
+        "Managing a switch through SSH, console connection and Telnet connection. 
+        "Securely erasing sensitive information on hard drives.",
+        "Assisted members of the ICS department with various troubleshooting tasks."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Forever21",
+      "position": "Visual Merchandising Lead",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "startDate": "2014-08-20",
+      "endDate": "2015-11-20",
+      "summary": "Prepared displays of clothing items using a combination of personal styling choices and corporate instructions",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+       "In charge of finding and processing markdown merchandise",
+       "Assembled completed clothing looks to market to customers that consisted of at the minimum: a top, a bottom, a layering piece, an accessory and shoes",
+       "Handled monetary transactions",
+       ""
       ]
     }
   ],
@@ -139,16 +145,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "FRC Regional Finalist",
+      "date": "2014",
+      "awarder": "First Robotics Competition",
+      "summary": "Award for the runner up of the First Hawaii Robotics Regional Competition."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Purple Gold Medal Solo and Ensemble",
+      "date": "2014",
+      "awarder": "Hawaii String Teachers Association",
+      "summary": "Performed the first movement of the Lalo Cello Concerto to a panel of judges."
     }
   ],
   "references": [
