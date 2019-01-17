@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image:
 title: Data Visualization of AIDs/HIV Data in Hawaii
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
