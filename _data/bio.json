@@ -98,7 +98,8 @@
         "Managing a switch through SSH, console connection and Telnet connection. ",
         "Securely erasing sensitive information on hard drives.",
         "Assisted members of the ICS department with various troubleshooting tasks."
-      ]
+        ]
+      
     },
     {
       "company": "Forever21",
@@ -110,8 +111,7 @@
       "highlights": [
        "In charge of finding and processing markdown merchandise",
        "Assembled completed clothing looks to market to customers that consisted of at the minimum: a top, a bottom, a layering piece, an accessory and shoes",
-       "Handled monetary transactions",
-       ""
+       "Handled monetary transactions"
       ]
     }
   ],
