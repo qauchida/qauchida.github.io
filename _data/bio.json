@@ -32,9 +32,16 @@
     
     {
       "name": "Bioinformatics",
-      "keywords": [ "BLAST", "Whole genome sequence analysis"
-      ]
+      "keywords": [ "BLAST", "Whole genome sequence analysis"]
     },
+    {
+      "name": "Scripting Languages",
+      "keywords": ["Perl", "Python", "JavaScript"]
+    },
+    {
+    "name": "Data Visualization",
+     "keywords": ["Echarts", "Color Theory","3D visualizations"]
+    }
    
   ],
   "skills": [
@@ -46,7 +53,6 @@
         "C++",
         "Java",
         "Javascript",
-        
       ]
     },
     {
@@ -62,13 +68,24 @@
   ],
   "education": [
     {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "A.S. (transfer to a 4 year institution)",
+      "startDate": "2016-01-14",
+      "endDate": "2018-05-20",
+      "gpa": "2.97",
+      "courses": [
+        "ICS 111", "ICS 141", "ICS 211", "ICS 212", "BIO 171", "MICR 130", "MICR 140"
+      ]
+    }, {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2018-08-12",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.19",
       "courses": [
+        "ICS 214", "ICS 484"
       ]
     }
   ],
@@ -108,6 +125,12 @@
  
   "awards": [
     {
+    "title": "Kapiolani Opportunity Grant",
+    "date": "08-20-2016",
+    "awarder":"Kapiolani Community College",
+    "summary": "Monetary award for achieving a cumulative GPA of 3.5 or above."
+    }
+    {
       "title": "FRC Regional Finalist",
       "date": "2014",
       "awarder": "First Robotics Competition",
@@ -120,6 +143,12 @@
       "summary": "Performed the first movement of the Lalo Cello Concerto to a panel of judges."
     }
   ],
+  "research grants":[
+    "title":"Student Research Grant",
+    "date": ["01-20-2017", "08-20-2017"]
+    "awarder":"INBRE Hawaii",
+    "Summary":"$1,000 dollars per semester of participation awarded to an approved INBRE research project.",
+  ]
   "references": [
     {
       "name": "Available upon request",
