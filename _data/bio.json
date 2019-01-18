@@ -124,6 +124,12 @@
   
  
   "awards": [
+     {
+    "title":" INBRE Student Research Grant",
+    "date": ["01-20-2017", "08-20-2017"],
+    "awarder":"INBRE Hawaii",
+    "Summary":"$1,000 dollars per semester of participation awarded to an approved INBRE research project.",
+    },
     {
     "title": "Kapiolani Opportunity Grant",
     "date": "08-20-2016",
@@ -144,14 +150,7 @@
     }
   ],
   
-  "research grants":[
-    {
-    "title":" INBRE Student Research Grant",
-    "date": ["01-20-2017", "08-20-2017"],
-    "awarder":"INBRE Hawaii",
-    "Summary":"$1,000 dollars per semester of participation awarded to an approved INBRE research project.",
-    }
-  ],
+  
   "references": [
     {
       "name": "Available upon request",
