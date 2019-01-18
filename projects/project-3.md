@@ -12,6 +12,7 @@ labels:
 summary: A SHA-1 encryption project for ICS 212.
 ---
 ![sha1](https://qauchida.github.io/images/sha1.jpeg)
+
 So far, I have written about my success. Now I will truly recognize my shortcomings. For ICS 212, the final project required students to implement SHA-1 encryption on various text files. Secure Hash Algorithm 1 is an encryption algorithm composed by the NSA that takes a file as input and cuts up the bit strings composing the text. It then moves around the cut-up bit strings and gives what seems like random garbage as the output. If you have ever handled SHA-1 or any of its descendants (SHA-2, SHA-3), then it is clear by my description of it, that I’ve failed to completely grasp it. I received a “F” on the project but still somehow managed to pass the class.
 
 
