@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/sha1.jpeg
 title: SHA-1
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -11,8 +11,9 @@ labels:
   - encryption
 summary: A SHA-1 encryption project for ICS 212.
 ---
-
+![sha1](https://qauchida.github.io/images/sha1.jpeg)
 So far, I have written about my success. Now I will truly recognize my shortcomings. For ICS 212, the final project required students to implement SHA-1 encryption on various text files. Secure Hash Algorithm 1 is an encryption algorithm composed by the NSA that takes a file as input and cuts up the bit strings composing the text. It then moves around the cut-up bit strings and gives what seems like random garbage as the output. If you have ever handled SHA-1 or any of its descendants (SHA-2, SHA-3), then it is clear by my description of it, that I’ve failed to completely grasp it. I received a “F” on the project but still somehow managed to pass the class.
+
 
  During my time of enrollment in ICS 212 I was concurrently taking ICS 211, which happens to be a pre-requisite for ICS 212. However, my instructor felt that I did well enough in ICS 111 to warrant granting me an override to take the two classes at the same time. Being in both classes gave me an air of confidence which soon turned to cockiness. In my fit of arrogance, I convinced myself I could start assignments for 211 and 212 the night before they were due. My mentality put me at a disadvantage when I became overwhelmed by the impending deadline and the complexity of certain assignments, including the infamous SHA-1. Like many students, I ignored my instructor when she would hint that a certain assignment would be very useful for the final or that SHA-1 takes a lot of planning and time. It was only in the throes of regret 5 minutes before the deadline that I realized I should have headed her advice. In short, the entire experience taught me what not to do.
  
