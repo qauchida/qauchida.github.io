@@ -2,6 +2,7 @@
 layout: project
 type: project
 title: Bioinformatic Analysis of Campylobacter jejuni
+image: images/campy.jpg
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-01
 labels:
