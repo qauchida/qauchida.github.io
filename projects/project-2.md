@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: 
 title: Data Visualization of AIDs/HIV Data in Hawaii
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
@@ -18,5 +18,5 @@ The most difficult aspect of this project was the challenge of working on a webs
 
 Moreover, this project taught me the importance of tailoring effective communication to the needs of the individuals. Our professor highly encouraged the class to sketch out drafts of visualizations before we even touched a keyboard. Like many students, our group ignored him at first until we realized that many of the problems we encountered in the beginning, stemmed from inaccurate descriptions of what each person was thinking. The drawings helped us embody an abstract idea, while also being an effective tool for communication of our individual thought processes. Like many students before us, our group also had trouble with the ambiguity of text-only communication. We finally found that the good old-fashioned meeting helped us utilize our time more effectively. The members of our group often had a difficult time composing text to accompany our visualizations but having an in-person discussion helped us to flesh out our ideas. For example, the simple introduction text in the beginning of the visualization went through three drafts and half an hour of conversation before we came up with a satisfying final version.
 
-[See the full project: ](https://awyz.github.io/AIDSHIVData/index.html?fbclid=IwAR3wZe879DWOZr29GDmjU8dxB3JqNd_
+[Experience the full project here ](https://awyz.github.io/AIDSHIVData/index.html?fbclid=IwAR3wZe879DWOZr29GDmjU8dxB3JqNd_
 OMLXwYmfwQJBMgeJuJlA52yPprwc#theBox)
