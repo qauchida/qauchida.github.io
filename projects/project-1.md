@@ -6,7 +6,6 @@ title: Bioinformatic Analysis of Campylobacter jejuni
 date: 2017-08-01
 labels:
   - Bioinformatics
-  - Perl
   - BLAST
 summary: I came up with a research project utilizng Bioinformatics tools.
 ---
