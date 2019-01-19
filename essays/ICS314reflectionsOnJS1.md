@@ -10,7 +10,7 @@ labels:
   - JavaScript
 ---
 
-##How It feels to Royally Mess Up Early in the Semester
+## How It feels to Royally Mess Up Early in the Semester
 
 I’ve never met anyone who openly announces their failures as much as their successes. In fact, I feel that most people avoid openly talking about times they messed up. It may be because I lack any sense of shame, but personal failures are what I tend to elaborate more on. I’ve noticed that my role in a network of support is to be the empathizer and the comforter. If I tell my friends about the (many) times I’ve fallen flat on my face, it makes them feel better about admitting their own short-comings. So, friends, let me detail the accounts of my royal screw up during the first two weeks of ICS 314.
 
