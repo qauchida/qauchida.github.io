@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: None of Us is As Dumb As All of Us
+title: The Art of Asking Questions
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
 labels:
