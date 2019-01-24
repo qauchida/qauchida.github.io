@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Art of Asking Questions
+title: Grab Your Gear, We're Going Fishing
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
 labels:
@@ -24,8 +24,6 @@ Mr. Rogers has stated his code threw a specific error, which he displays on his 
 The most upvoted answer comes from Mr. Pascal, who not only provides a link to the resource on “use strict”, but provides what he believes is the meat of the text. This is a promising example of a well thought-out question receiving an insightful answer.
 
 [Here is a fellow who needs to work on his fishing skills.](https://stackoverflow.com/questions/3905734/how-to-send-100-000-emails-weekly)	It is quite obvious that this is a homework assignment and the poster is a student, refusing to think for themselves. All the poster does is ask how to send 100,000 emails to a variety of domains but the poster gives no background as to what he’s tried in the first place. He is openly asking someone to just give him the solution. And boy, does he get it. The responder, Piskvor, gives a lengthy response and also states, “and it'll be your job to troubleshoot and solve this.” This CVS-receipt of a response is warranted by the question asked. 
-
-
 
 
 ## A General Trend
