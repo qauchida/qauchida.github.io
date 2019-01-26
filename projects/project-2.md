@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/dataVis.png
 title: Data Visualization of AIDs/HIV Data in Hawaii
-permalink: projects/vacay
+permalink: projects/dataVisualization
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-10-10
 labels:
   - Javascript
   - Data Visualization
