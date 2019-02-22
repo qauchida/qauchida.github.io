@@ -1,2 +1,16 @@
+---
+layout: essay
+type: essay
+title: You Better Work
+# All dates must be YYYY-MM-DD format!
+date: 2019-02-21
+labels:
+  - Personal Growth
+  - Learning
+  - HTML
+  - Semantic UI
+  - Bootstrap
+---
+
 The culmination of my experience with Semantic UI can be summed into a single sentence: user interface frameworks are just HTML in drag. For those of you sorely in need of a pop culture update, drag is the art of transforming from the ordinary into your wildest fantasy and user interface frameworks allow web designers to transform the drab into something fab. I did not make this comparison just to highlight the fact that I love RuPaul’s Drag Race, but because it is a succinct definition of web based user interfaces. 
 	Often times I feel myself sounding too intellectual (but if you know me personally, I’m not sure you’d feel the same way). Like many others with insecurities about their intelligence, I make the mistake of muddling my speech with highly technical words in order to make me seem smart beyond my intellect. 
