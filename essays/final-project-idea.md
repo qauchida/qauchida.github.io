@@ -14,15 +14,17 @@ labels:
 [This essay](https://www.insidehighered.com/news/2018/06/25/lecturers-explanation-gender-gap-computer-science-it-reflect-womens-choices) is a thought provoking piece on the insights of the gender gap in technology related fields. However, just because it is plausible that MOST women may not be interested in Computer Science, it is our mission to support the few that are. Listed below are various prominent women in Computer Science from the past, present and near future:
 
 -  Mary Kenneth Keller was the first woman to receive a pHD in Computer Science, all the way back in 1965 from the University of Wisconsin.
-- Grace Hopper 
-- Katherine Johnson
-- Margaret Hamilton
+- Grace Hopper was a pioneering programmer for the United States Navy.
+- Katherine Johnson credited with coining the term 'software engineering'.
+- Margaret Hamilton was a 'human computer' at NASA. 
 
 Your Female Faculty Members:
 - Martha Crosby
-- Susana Stills
+- Susanne Stills
 - Kyungmin Baek
-- Guilayne Poison
+- Guylaine Poison
+- Kim Binstead
+
 
 Your Female Graduate Students:
 - LiChien
