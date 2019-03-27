@@ -17,6 +17,7 @@ labels:
 - Grace Hopper was a pioneering programmer for the United States Navy.
 - Katherine Johnson is credited with coining the term 'software engineering'.
 - Margaret Hamilton was a 'human computer' at NASA. 
+- Dr. Talia Gershon is the current senior manager of AI Challenges and Quantum Computing at IBM.
 
 Your Female Faculty Members:
 - Martha Crosby
