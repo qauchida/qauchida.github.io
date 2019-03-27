@@ -61,7 +61,7 @@ The solution: This application creates the startings of a support community for 
 ## Beyond the Basics 
 - app messaging capabilities between female members 
 - Cool promotional video with interview footage of UH female CS faculty/students
-- graphical representation of all registered users with a supportive messages
+- graphical representation of all registered users with supportive messages
 - ratings of internships
 - notification system for new scholarships, internships, events, etc.
 
