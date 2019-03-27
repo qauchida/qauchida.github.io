@@ -15,7 +15,7 @@ labels:
 
 -  Mary Kenneth Keller was the first woman to receive a pHD in Computer Science, all the way back in 1965 from the University of Wisconsin.
 - Grace Hopper was a pioneering programmer for the United States Navy.
-- Katherine Johnson credited with coining the term 'software engineering'.
+- Katherine Johnson is credited with coining the term 'software engineering'.
 - Margaret Hamilton was a 'human computer' at NASA. 
 
 Your Female Faculty Members:
