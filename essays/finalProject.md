@@ -32,13 +32,15 @@ Your Female Graduate Students:
 What if I’m not a woman, but still support them?
 
 Anyone, regardless of gender, can pledge their support for women in Computer Science. To show your support, create a profile, preferably with a picture and accept the terms and conditions. You will receive updates of events or milestones of women in Computer Science as well as be potentially added to a mosaic set on the homepage of all supporters of women in Computer Science. There may even be stickers in the works for registered members. 
-Overview
+
+
+## Overview
 The problem: The female to male ratio of ICS students and faculty at UH is low and, as a result, may create a discouraging environment for current and potential female ICS students/faculty members. 
 The solution: This application creates the startings of a support community for female ICS students and faculty members at UH by facilitating communication amongst them. 
 
 
 
-Mockup Page Ideas
+## Mockup Page Ideas
 - Landing Page
 - User Homepage
 - Admin/Moderators Homepage
@@ -50,12 +52,12 @@ Mockup Page Ideas
 - Inspiration Page (collection videos, articles, other media)
 - About the Developers 
 
-Use Case Ideas
+## Use Case Ideas
 - New user sets up a profile from landing, logs in, writes tweet style supportive message for females in Computer Science to finish setting up their profile, goes to user home
 - Admin logs in to landing, goes to admin home, makes edits to site
 - Returning user logs in to landing, goes to user home, goes to possible messaging system
 
-Beyond the Basics 
+## Beyond the Basics 
 - app messaging capabilities between female members 
 - Cool promotional video with interview footage of UH female CS faculty/students
 - graphical representation of all registered users with a supportive messages
