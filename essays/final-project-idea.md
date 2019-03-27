@@ -5,8 +5,8 @@ title: Final Project Idea
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-26
 labels:
-  - Personal Growth
-  - Final Project
+  - Software Engineering
+  - Meteor
 ---
 ## For the Support of Women In Computer Science At UH Manoa
 [According to the Stack overflow developer survey of 2018](https://insights.stackoverflow.com/survey/2018/#demographics), only 6.9% of participants responded as women. To me, as a female, those numbers are absolutely terrifying because it makes me, and many other women, feel alone. The goal of this project is to remind women in Computer Science at UH Manoa that they, in fact, are never alone. Being a female in any form of science or engineering is harrowing as these fields have been traditionally male dominated and are also academically demanding. By showing other women in this field prominent female figures in the past, present and possible future, this project hopes to inspire others and provide moral support to those in this intense field of study.
