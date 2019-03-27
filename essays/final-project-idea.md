@@ -64,3 +64,7 @@ The solution: This application creates the startings of a support community for 
 - graphical representation of all registered users with a supportive messages
 - ratings of internships
 - notification system for new scholarships, internships, events, etc.
+
+## Group Members
+- Christina Chen (cchen2@hawaii.edu)
+- Quinne Uchida (qauchida@hawaii.edu)
