@@ -28,7 +28,7 @@ Your Female Faculty Members:
 
 
 Your Female Graduate Students:
-- LiChien
+- Ling-Chih
 - Katrina Johnson-Turner
 - Lisa Miller
 
