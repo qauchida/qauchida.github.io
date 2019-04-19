@@ -18,6 +18,6 @@ While the death was not an explicit result of Sourour's actions, there were oppo
 
 In Sourour's case, his decision was made based on his personal ethics.
 
-## Personal ethics are how we act when no one is watching.
+<h3>Personal ethics are how we act when no one is watching.</h3>
 
 They cannot be regulated by any organization and the only person who can hold you accountable is yourself. 
