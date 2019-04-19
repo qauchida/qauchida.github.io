@@ -17,7 +17,7 @@ In Sourour's case, his decision was ultimately made based on his personal ethics
 
 <h3>Personal ethics are how we act when no one is watching.</h3>
 
-They cannot be regulated by any organization. We have whether we are on and off the clock. Most importantly, the only person who can hold you accountable for them is yourself. No matter what you do in this life, the most defining moments of your character will be when your personal ethics are tested, when you are faced with the question of "is this wrong or right?" Never forget that in that fleeting instance, you will define yourself forever based on that decision. Sourours found himself in that moment and lives with the burden of his actions to this very day. 
+They cannot be regulated by any organization. We have them whether we are on and off the clock. Most importantly, the only person who can hold you accountable for them is yourself. No matter what you do in this life, the most defining moments of your character will be when your personal ethics are tested, when you are faced with the question of "is this wrong or right?" Never forget that in that fleeting instance, you will define yourself forever based on that decision. Sourours found himself in that moment and lives with the burden of his actions to this very day. 
 
 It is my hope that you feel a heaviness in your heart upon reading this. Since you've made it through the serious section, here's a reward. I will end on a great github joke I thought of all on my own. 
 
