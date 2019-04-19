@@ -20,4 +20,5 @@ In Sourour's case, his decision was made based on his personal ethics.
 
 <h3>Personal ethics are how we act when no one is watching.</h3>
 
-They cannot be regulated by any organization and the only person who can hold you accountable is yourself. 
+They cannot be regulated by any organization and the only person who can hold you accountable is yourself. No matter what you do in this life, the most defining moments of your character will be when your ethics are tested, when you are faced with the question of "is this right or wrong?" Never forget that in that fleeting instance, you will define yourself forever based on that decision. Sourours found himself in that moment and lives with the burden of his decision to this very day. 
+
