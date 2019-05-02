@@ -4,7 +4,6 @@ type: essay
 title: Gotta Design Them All!
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-27
-draft: true
 labels:
   - Design Patterns
   - Java
