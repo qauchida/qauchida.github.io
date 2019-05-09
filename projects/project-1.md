@@ -12,7 +12,10 @@ labels:
 summary: I came up with a research project utilizng Bioinformatics tools.
 
 ---
-![Electron Microscopy of Campylobacter jejuni](https://qauchida.github.io/images/campy.jpg)
+
+<p align="center">
+<img src="https://qauchida.github.io/images/campy.jpg"/>
+</p>
 
   As part of an extra-curricular research opportunity through INBRE Hawaii, I conducted independent research on a bacterium called Campylobacter jejuni for an entire academic year. In most extra-curricular research projects, groups of students are given topics from their instructor. However, I was a special exception because no one in the microbiology research lab I was working in knew anything about Bioinformatics. Therefore, I had to come up with my own idea for the project by myself and also give my PI something he could relate to, as far as the microbiological aspect of it. While it was an extremely frustrating process, my PI and I eventually came to an agreed topic, which is the title of the project itself.
 
