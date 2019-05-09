@@ -12,7 +12,7 @@ labels:
   - HTMl
   - CSS
   - GitHub
-summary: Final Project for ICS 314. 
+summary: A fully functional deployed Meteor application to display information about Registered Independent Organizations at the University of Hawaii at Manoa. 
 
 ---
 
