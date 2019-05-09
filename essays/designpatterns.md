@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: Gotta Design Them All!
 # All dates must be YYYY-MM-DD format!
+draft: true
 date: 2019-04-27
 labels:
   - Design Patterns
