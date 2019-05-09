@@ -17,7 +17,7 @@ For a specific part of ICS 211, we were required to implement a class called “
 
 
 <p align="center">
-<img src = https://d1rw89lz12ur5s.cloudfront.net/photo/wiiplaygames/file/1261443/large/Pokemon%20Pikachu%20Edition%20System.jpg?1519332707/>
+<img src = "https://d1rw89lz12ur5s.cloudfront.net/photo/wiiplaygames/file/1261443/large/Pokemon%20Pikachu%20Edition%20System.jpg?1519332707/">
 </p>
 Above is the exact same Gameboy Color and Pokemon game my sister had when we were kids.
 
