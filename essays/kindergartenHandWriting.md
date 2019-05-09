@@ -7,7 +7,7 @@ date: 2019-02-07
 labels:
   - Personal Growth
   - eslint
-  - code formatting
+  - Coding Standards
 ---	
 When I was young I had horrendous handwriting. I would not be surprised if thousands of years from now, archaeologists discover my kindergarten notebooks and believe that I derived a new language from English. Kids are expected to have illegible handwriting so I tried not to worry about it, until I noticed a disturbing trend in my math classes. All my answers were right, but my work was impossible to follow and my handwriting was only decipherable by myself. So I got all the problems wrong. I remember being outraged, which of course was cute because I was 2 feet tall (which happens to be the height I am now) with chubby cheeks and pigtails. My kindergarten teacher taught me early on, it doesn't matter if you get the work right. If no one can understand it, it’s wrong.
 
