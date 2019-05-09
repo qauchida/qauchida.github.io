@@ -18,5 +18,5 @@ Myself, along with two other female students Mirabella and Mercedez, are attempt
 
 ## What if I’m not a woman or member of a minority, but still support them?
 
-Anyone, regardless of gender or ethnic identity, can pledge their support for this organiztion. If you or anyone you know is interested in getting involved, [please vist our GitHub page for more information.](https://swmcs.github.io/)
+Anyone, regardless of gender or ethnic identity, can pledge their support for this organization. If you or anyone you know is interested in getting involved, [please visit our GitHub page for more information.](https://swmcs.github.io/)
 
