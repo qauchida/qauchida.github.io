@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: My UH Club
-image: images/landing (3).png
+image: images/finalproject.png
 permalink: projects/MyUHClub
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-01
