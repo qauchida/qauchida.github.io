@@ -14,7 +14,9 @@ labels:
 
 Back when I worked retail for an a shoe store, whose name I refuse to disclose, I ran into a problem at the register. The customer wanted a specific discount but I had tried x,y,z and nothing was producing said discount. I called my manager over and attempted to explain to her what I had already tried. However, my attempts to prove that I was not an illiterate boob backfired because I was then given a “talking to” that I should never try to explain what I’ve done in front of a customer because that could be perceived as arguing. I was appalled. Was it so wrong that I tried to describe what I attempted and the detailed failure of said attempts? This situation led me to question my entire troubleshooting process as well as vow to never work in retail ever again. However, that experience has led me to believe I was destined to be a software engineer instead of a shoe salesman. 
 
-![stackOverflowMotivationalPoster](https://qauchida.github.io/images/stackoverflow.jpg)
+<p align="center">
+ <img src="https://qauchida.github.io/images/stackoverflow.jpg"/>
+</p>
    
    After analyzing Eric Steven Raymond and Rick Moen’s [How To Ask Smart Questions](http://www.catb.org/esr/faqs/smart-questions.html), I’ve come to conclude that the best way to describe a “smart question” would be to call it a more thought-out question. State what you’ve tried and what you haven’t tried, say what framework or language you’re using, mention what happens after you do x. Walk yourself through the situation before you open your mouth. Personally, I find just going through the motions of stating what I’ve done and what I haven’t, helps me to solve the problem before even posing the question. This can narrow down the list of possible explanations for your error and help a contributor solve your problem with ease. Not only does this mental exercise of gathering information on the problem help your contributors, it will also help you become a methodical problem solver. All of this puts me in mind of the Confucius proverb, “Give a man a fish, and you’ll feed him for a day. Teach a man to fish and you’ve fed him for a lifetime.”
 
