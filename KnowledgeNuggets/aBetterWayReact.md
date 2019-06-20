@@ -1,6 +1,18 @@
 A Better Way: A Lesson On What Not To Do
+Take full advantage of TypeScript so that you can trim any redundancies in your code. 
 
+Objective:
+Find out how who is interested in an opportunity.
+
+To Do That We Need:
+- the User's Collection
+- the ID of the opportunity
+
+
+
+Here is a better way to do it:
 ```
+
 interface IExplorerInterestsWidgetProps {
   type: string;
   match: {
@@ -12,31 +24,31 @@ interface IExplorerInterestsWidgetProps {
       interest: string;
     }
   }
-  profile: object;
+  profile: IProfile;
+  interest: IInterest;
 }
 
-class ExplorerInterestsWidget extends React.Component <IExplorerInterestsWidgetProps, IProfile> {
-  constructor(props: any) {
-    super(props);
-    console.log(props);
-  }
-  ...
-  
- private GenerateCourseRoute = (document) => {
-    const variableSlug = Courses.findSlugByID(document._id);
-    const username = this.props.match.params.username;
-    const role = this.props.match.url.split('/')[1];
-    const partialSlug = [];
-    partialSlug.push(role);
-    partialSlug.push(username);
-    partialSlug.push('explorer');
-    partialSlug.push('courses');
-    partialSlug.push(variableSlug);
-    const fullSlug = `/${partialSlug.toString().split(',').join('/')}`;
-    return fullSlug;
+private getObjectsThatHaveInterest = (profiles) => {
+    const interested = [];
+    _.map(profiles, (num) => {
+      _.filter(num.interestIDs, (interests) => {
+        if (interests === this.props.interest._id) {
+          interested.push(num);
+        }
+      });
+    });
+    return interested;
   };
-  ...
-  }
-  ```
   
   
+  const ExplorerInterestsWidgetCon = withTracker(({ match }) => {
+  const username = match.params.username;
+  const profile = Users.getProfile(username);
+  const interest = Interests.findDoc(match.params.interst);
+  return {
+    profile,
+    interest,
+  };
+})(ExplorerInterestsWidget);
+```
+
