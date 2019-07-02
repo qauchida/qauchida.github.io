@@ -12,7 +12,7 @@ Recently, I messed up on our github (again).
 
 I used this opportunity to learn about how to cache files that I don't want commited without modifying the .gitignore.
 
-I came across [this medium article](https://medium.com/@dave_lunny/exclude-files-from-git-without-committing-changes-to-gitignore-986fa712e78d), which describes using the exclude file found in .git/info
+I came across [this medium article](https://medium.com/@dave_lunny/exclude-files-from-git-without-committing-changes-to-gitignore-986fa712e78d), which describes using the exclude file found in .git/info.
 I found that this will work for new files not already commited but I needed to use 
 ```
 git update-index --assume-unchanged file.name
