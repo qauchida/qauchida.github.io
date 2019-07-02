@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: Caching GitHub
+# All dates must be YYYY-MM-DD format!
+date: 2019-07-01
+labels:
+  - GitHub
+  - Git
+---
 Recently, I messed up on our github (again).
 
 I used this opportunity to learn about how to cache files that I don't want commited without modifying the .gitignore.
