@@ -8,7 +8,7 @@ labels:
   - GitHub
   - Git
 ---
-Recently, I messed up on our github (again).
+Recently, I messed up on a team repo (again).
 
 I used this opportunity to learn about how to cache files that I don't want commited without modifying the .gitignore.
 
