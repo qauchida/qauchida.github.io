@@ -11,7 +11,7 @@ labels:
 
 The simplest solution would be to advertise Code.org, Tableau Data Kids and the Hack club as  opportunities in CSExplore similar to how RadGrad does and then reward students for their participation. This way, CSExplore can act as a hub for computer science activities in Hawaii, tailored to students before college. 
 
-Also similar to RadGrad, we can use CSExplore to show the possibilities in computer science using the UMass Careers Page and Code.org’s videos. It looks like UMass has virtual events but I’m not sure if that is only because of the current situation with social distancing. If they regularly hold virtual events, it could be used as an event for students to attend so they can see the possibilities of an education in computer science.
+Similarly to RadGrad, we can use CSExplore to show the possibilities in computer science using the UMass Careers Page and Code.org’s videos. It looks like UMass has virtual events but I’m not sure if that is only because of the current situation with social distancing. If they regularly hold virtual events, it could be used as an event for students to attend so they can see the possibilities of an education in computer science.
 
 We can use it to generate exposure and education for those who otherwise may not have the resources for a traditional computer science education.
 
@@ -21,7 +21,7 @@ Here is an idea of how CSExplore can pipeline into the DOE’s requirements for 
 
 
 
-Below, I have a more in depth discussion about Code.org and ECS
+Below, I have a more in depth discussion about the resources.
 
 In Depth discussion of resources
 
@@ -51,3 +51,17 @@ I’m not sure that this could be helpful to CSExplore because it doesn’t look
 they do not have a hub in Hawaii and the DOE relies on Code.org’s program in their schools. 
 
 We could be optimistic and try to establish ECS programs here, but it would be prudent to try to work with established programs first. 
+
+
+UMass CS Careers Page
+The UMass Careers Page provides statistical insight on the University of Massachusetts alumni as well as virtual events about careers in Computer Science. While it is not tailored specifically to Hawaii students, it could provide inspiration to students who want to attend college out of state. This way, they remember this institution because they found useful resources. 
+
+HackClub
+HackClub is a virtual club that provides workshops and information on hackathons and creates a community atmosphere with its message boards. Local Hack clubs are run by students and they are the ones to lead the workshops, with materials provided by the Hack club organization. This framework puts more power in the hands of high school students and while it is a novel idea, it heavily relies on drive from the students themselves. It partially relies on the fact that these students are very interested in computer science and that they have had some exposure in the past. 
+
+Tableau Data KIds
+This is a resource that helps students get exposure to data science. The graphics and overall visual theme of the website indicate it is aimed towards younger students in elementary or middle school. While it may not look coding heavy, the point of this resource seems to be exposure for data science in an accessible manner. However, this resource will need to be introduced to the students, maybe by an educator or by CSExplore.
+
+Other Thoughts
+There are so many excellent free resources out there for students of all ages. But there is the problem of exposing these resources to students. Most students hear about these opportunities through school, facilitated by their teachers or extracurricular activities. 
+
