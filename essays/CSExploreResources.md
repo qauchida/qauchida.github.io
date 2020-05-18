@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: CSExplore Resources Review
+# All dates must be YYYY-MM-DD format!
+date: 2020-05-18
+labels:
+  - Education
+---	
+
+
 The simplest solution would be to advertise Code.org, Tableau Data Kids and the Hack club as  opportunities in CSExplore similar to how RadGrad does and then reward students for their participation. This way, CSExplore can act as a hub for computer science activities in Hawaii, tailored to students before college. 
 
 Also similar to RadGrad, we can use CSExplore to show the possibilities in computer science using the UMass Careers Page and Code.org’s videos. It looks like UMass has virtual events but I’m not sure if that is only because of the current situation with social distancing. If they regularly hold virtual events, it could be used as an event for students to attend so they can see the possibilities of an education in computer science.
