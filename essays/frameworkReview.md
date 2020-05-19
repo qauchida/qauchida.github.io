@@ -32,11 +32,10 @@ To make a React App, you need to install Node.js and npm, both of which are free
 ## Native Script
 This framework uses Angular, Vue.js and your choice of JavaScript or Typescript.
 
-https://medium.com/@techaffinity/react-native-vs-nativescript-7ebe0ecdc232
+[Here's an article comparing React native and NativeScript](https://medium.com/@techaffinity/react-native-vs-nativescript-7ebe0ecdc232)
 
 
 ## Flutter
 
-Here’s a fairly recent article about Flutter developers. 
-https://medium.com/flutter/what-are-the-important-difficult-tasks-for-flutter-devs-q1-2020-survey-results-a5ef2305429b
+[Here’s a fairly recent article about Flutter developers.](https://medium.com/flutter/what-are-the-important-difficult-tasks-for-flutter-devs-q1-2020-survey-results-a5ef2305429b)
 
