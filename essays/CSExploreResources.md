@@ -28,12 +28,12 @@ Below, I have a more in depth discussion about the resources.
 Code.org offers excellent free materials to teach computer science courses tailored for students at all education levels. What’s wonderful about this organization is that it makes computer science education accessible to all, regardless of income. It has materials meant to inspire students, such as videos from celebrities and former President Obama, and it even has a speaker program that allows students to hear from professionals in the field of computing and technology. 
 
 Code.org has a useful report on the state of Hawaii’s computer science education and projections for the future.
-<https://code.org/advocacy/state-facts/HI.pdf>
+[Here's a report they did on Hawaii.](https://code.org/advocacy/state-facts/HI.pdf)
 According to their report, 33% of Hawaii high schools use Code.org’s curriculum along with 33% of middle schools and 44% of elementary schools. 
 
 The main disadvantage of the Code.org system is that it relies on voluntary participation from teachers in these schools, most of whom are already overworked and underpaid.
 
-<http://www.hawaiipublicschools.org/TeachingAndLearning/StudentLearning/CSforHI/Pages/default.aspx>
+[Here's a report on Hawaii public schools and Computer Science Education.](http://www.hawaiipublicschools.org/TeachingAndLearning/StudentLearning/CSforHI/Pages/default.aspx)
 CSExplore could use the Code.org resources to help establish the program at schools that currently do not have them. For example, a lot of high schools in Hawaii participate in FIRST robotics competition. 
 
 Personally, I have fond memories of competing and it was through robotics that I became exposed to STEM education as a possibility (even though I was a builder and worked mainly in the shop). By teaming up with robotics teams and coordinators, we may be able to establish good relationships with schools that already have support for STEM education but may just need a little help. We can then provide after school Code.org workshops for students and ECS training for teachers. If we want to really impact the students, we have to set the teachers up, because they can continue to inspire these students even when we’re gone. 
@@ -45,7 +45,7 @@ Personally, I have fond memories of competing and it was through robotics that I
 ## ECS
 Exploring Computer Science provides high school level computer science curriculum and teacher training. It is similar to Code.org’s programs and it appears that these resources are free but there is no confirmation of the cost. ECS’s one year program consists of 6 units, with each unit requiring about 6 weeks to complete.
 
-I’m not sure that this could be helpful to CSExplore because it doesn’t look like schools in Hawaii use this resource. According to this graphic found on their site at <http://www.exploringcs.org/wp-content/uploads/2019/09/ECS-Map-Aug-2019.png>
+I’m not sure that this could be helpful to CSExplore because it doesn’t look like schools in Hawaii use this resource. [According to this graphic found on their site, ](http://www.exploringcs.org/wp-content/uploads/2019/09/ECS-Map-Aug-2019.png)
 
 they do not have a hub in Hawaii and from the report mentioned earlier, the DOE relies on Code.org’s program in their schools. 
 
