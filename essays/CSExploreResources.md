@@ -45,9 +45,7 @@ Personally, I have fond memories of competing and it was through robotics that I
 ## ECS
 Exploring Computer Science provides high school level computer science curriculum and teacher training. It is similar to Code.org’s programs and it appears that these resources are free but there is no confirmation of the cost. ECS’s one year program consists of 6 units, with each unit requiring about 6 weeks to complete.
 
-I’m not sure that this could be helpful to CSExplore because it doesn’t look like schools in Hawaii use this resource. [According to this graphic found on their site, ](http://www.exploringcs.org/wp-content/uploads/2019/09/ECS-Map-Aug-2019.png)
-
-they do not have a hub in Hawaii and from the report mentioned earlier, the DOE relies on Code.org’s program in their schools. 
+I’m not sure that this could be helpful to CSExplore because it doesn’t look like schools in Hawaii use this resource. [According to this graphic found on their site, ](http://www.exploringcs.org/wp-content/uploads/2019/09/ECS-Map-Aug-2019.png) they do not have a hub in Hawaii and from the report mentioned earlier, the DOE relies on Code.org’s program in their schools. 
 
 We could be optimistic and try to establish ECS programs here, but it would be prudent to try to work with established programs first. 
 
