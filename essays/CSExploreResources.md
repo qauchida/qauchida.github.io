@@ -15,7 +15,7 @@ Similarly to RadGrad, we can use CSExplore to show the possibilities in computer
 
 We can use it to generate exposure and education for those who otherwise may not have the resources for a traditional computer science education.
 
-The downside to these systems is that none of them are specific to Hawaii. If the design of CSExplore is tailored to students in Hawaii, we can help with the advancement of Computer Science education within our community first. Additionally, if CSExplore can be integrated with RadGrad, it can provide a smooth transition for students from Hawaii who wish to continue their education at UH Manoa. 
+The downside to these systems is that none of them are specific to Hawaii. If the design of CSExplore is tailored to students in Hawaii, we can help with the advancement of computer science education within our community first. Additionally, if CSExplore can be integrated with RadGrad, it can provide a smooth transition for students from Hawaii who wish to continue their education at UH Manoa. 
 
 Here is an idea of how CSExplore can pipeline into the DOE’s requirements for honor graduates in Hawaii public schools: provide a senior project framework for high school students. Senior projects are required for Hawaii high schoolers (in public schools) to graduate with honors, regardless of GPA (meaning that  even if you had a 4.0, if you did not complete a senior project, you would not be able to receive any title). CSExplore can advertise a special “Senior Project” section. In it, we could put together opportunities students could use for their senior project, and provide materials (like curriculum for building a web app) and perhaps even consultations with college students and professionals. 
 
