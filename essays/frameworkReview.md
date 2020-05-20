@@ -39,7 +39,7 @@ NativeScript is used to build native android and IOS mobile apps. You can use a 
 I tried out a sample from NativeScript’s website. 
 
 
-[Here’s a Medium article comparing React Native and NativeScript] https://medium.com/@techaffinity/react-native-vs-nativescript-7ebe0ecdc232}
+[Here’s a Medium article comparing React Native and NativeScript] (https://medium.com/@techaffinity/react-native-vs-nativescript-7ebe0ecdc232)
 
 ### Pros
 
