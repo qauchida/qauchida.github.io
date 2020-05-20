@@ -28,10 +28,11 @@ Another key thing about React is that it’s component based, which can make it 
 
 To make a React App, you need to install Node.js and npm, both of which are free. 
 
+Currently RadGrad2 uses React, Meteor, MongoDB and Typescript so I will most likely be looking at if NativeScript or Flutter is compatible with Meteor and MongoDB. 
 
-## Native Script
-This framework uses Angular, Vue.js and your choice of JavaScript or Typescript.
 
+## NativeScript
+This framework can actually use React. 
 [Here's an article comparing React native and NativeScript](https://medium.com/@techaffinity/react-native-vs-nativescript-7ebe0ecdc232)
 
 
