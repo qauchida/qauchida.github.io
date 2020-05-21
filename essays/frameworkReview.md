@@ -19,28 +19,30 @@ I’ve only used React to make web apps. I have limited brainspace so I’d rath
 
 It’s called React because it’s reactive, meaning the appearance of the page will change without manually refreshing it. Think of this like a mantra and repeat it before you go to bed every night, “Change in props to change state to trigger rerender.” 
 
-React Native is a little different than React, as it uses native components instead of web components. 
+React Native is a little different than React, as it uses native components instead of web components. Since 2015, React Native has been used to created tons of mobile applications such as Facebook, Instagram, Pinterest and more. 
 
 ### Pros:
 * HUGE Community
 * Used to make apps for FaceBook, Instagram, Discord and more
 * Can make one app for IOS, Android and web instead of making one for each specific mobileOS
+* Pre-built React Native specific components compile to native code by React Native toolchain
+* Most popular to build apps with (right now)
+* Last stable release: 03/26/2020
 
 ### Cons:
 * still will have to learn React Native Specifics
-* React Native was made by FaceBook and FaceBook is evil
+* third party plugins
 
 ![NativeScript Logo](https://www.nativescript.org/images/default-source/logos/nativescript-logo.png?sfvrsn=2)
 ## [Native Script](nativescript.org)
 NativeScript is used to build native android and IOS mobile apps. You can use a combination of Angular and NativeScript, Vue.js and NativeScript, or JavaScript/TypeScript and NativeScript. 
 
-I tried out a sample from NativeScript’s website but it required me to download 2 different mobile apps, NativeScript Preview and NativeScript Playground. The sample applications look and function alright but NativeScript doesn't have as many compa
-
-
 ![And here's a table from React NativeScript creator Jamie Birch comparing React and React NativeScript.](https://d2odgkulk9w7if.cloudfront.net/images/default-source/blogs/react-ns-differences.png?sfvrsn=46850cfe_0)
 
 ### Pros
 * lots of free working examples and samples with code [on NativeScript MarketPlace](https://market.nativescript.org/)
+* Similar to React Native, it has pre-built components
+* Can make one app for IOS, Android and web instead of making one for each specific mobileOS
 * React NativeScript combines React and NativeScript
 
 ### Cons
@@ -50,7 +52,7 @@ I tried out a sample from NativeScript’s website but it required me to downloa
 ![Flutter Logo](https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png)
 ## [Flutter](https://reactnative.dev/)
 
-Flutter is Google’s UI toolkit and it uses a language called Dart. While I’ve never heard of Dart before, there is decent, well organized documentation for it. Flutter has documentation specific for developers who have experience in React and who now want to learn Flutter. 
+Flutter launched in 2017 and is Google’s UI toolkit utilizing a language called Dart. While I’ve never heard of Dart before, there is decent, well organized documentation for it. Flutter has documentation specific for developers who have experience in React and who now want to learn Flutter. 
 
 
 [Here’s a fairly recent article about Flutter developers.](https://medium.com/flutter/what-are-the-important-difficult-tasks-for-flutter-devs-q1-2020-survey-results-a5ef2305429b)
@@ -59,13 +61,16 @@ Flutter is Google’s UI toolkit and it uses a language called Dart. While I’v
 * Used to make apps for Google, Ebay and more
 * Decent Documentation
 * Build Native apps for mobile, web and desktop from single codebase
-* Quinne loves Google UIs
 * Hot Reload
 * Beautiful built-in animations
+* Lots of built-in widgets
+* Lots of community growth
+* Last stable release: 05/06/2020
 
 ### Cons 
 * Smaller community than React Native
 * Learning curve
+* potentially harder to customize UI wise because widgets do not adapt to different platforms automatically
 
 ### Recommendations
 
@@ -80,6 +85,13 @@ The development team for CSExplore has experience with React so making an app wi
 
 ## Readings Used
 
+* [React Native API](https://reactnative.dev/docs/)
+* [React Native Github](https://github.com/facebook/react-native)
+* [NativeScript API](https://www.nativescript.org/)
+* [NativeScript Github](https://github.com/NativeScript/NativeScript)
+* [Flutter API](https://reactnative.dev/)
+* [Flutter Github](https://github.com/flutter/flutter)
+* [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 * [React Native vs NativeScript vs Flutter](https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/)
 * [Here’s a Medium article comparing React Native and NativeScript](https://medium.com/@techaffinity/react-native-vs-nativescript-7ebe0ecdc232)
 
