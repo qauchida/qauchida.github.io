@@ -71,14 +71,14 @@ Flutter is Google’s UI toolkit and it uses a language called Dart. While I’v
 
 When giving a recommendation, it’s important to think about the needs of the user while also acknowledging certain technical restraints. CSExplore will most likely be accesed through a mobile device and is assumed to be an IOS/Android app. The problem with that is that users will have to download the app to access the contents if there is no mobile web version. 
 
-#### Recommendation Big Gamble: Flutter
+#### Big Gamble: Flutter
 As a user, I adore Google apps UI. It's simple, clean and functional (at least from the user standpoint). But trying to use Flutter is a huge gamble for our team. I'm pretty sure none of us has learned Dart so we'd all be starting at the beginning. Will it be worth it to learn about Dart and Flutter just to make a beautiful app? Having a beautiful app that's also functional can help show these students what's possible at (just) the college level. Just like you would never trust a skinny chef, why would you trust a janky app to teach you about Computer Science?
 
-### Recommendation Play It Safe: React Native
-The development team for CSExplore has experience with React so making an app with React Native shouldn't be too much of a stretch. Using React Native is less of a gamble.
+### Play It Safe: React Native
+The development team for CSExplore has experience with React so making an app with React Native shouldn't be too much of a stretch. Using React Native is less of a gamble. There's a huge community and this framework has been used to make TONS of apps already. While these apps are not as asthetically pleasing as apps made with Flutter, they are still functional and most users can't really tell (or don't care about) the difference. 
 
 
-## Articles and APIs
+## Readings Used
 
 * [React Native vs NativeScript vs Flutter](https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/)
 * [Here’s a Medium article comparing React Native and NativeScript](https://medium.com/@techaffinity/react-native-vs-nativescript-7ebe0ecdc232)
