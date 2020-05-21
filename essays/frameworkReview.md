@@ -13,6 +13,8 @@ labels:
 
 ---	
 I’ve only used React to make web apps. I have limited brainspace so I’d rather just stick with what I know about React (which isn’t much). But technology is always changing so maybe there’s something new out there worth learning.
+
+
 <img src="https://reactnative.dev/img/header_logo.svg"  width="300" height="300" />
 ## [React Native](https://reactnative.dev/)
 
@@ -32,10 +34,11 @@ React Native is a little different than React, as it uses native components inst
 * still will have to learn React Native Specifics
 * third party plugins
 
-<img src="https://www.nativescript.org/images/default-source/logos/nativescript-logo.png?sfvrsn=2" width="500" height="250"/>
+<img src="https://www.nativescript.org/images/default-source/logos/nativescript-logo.png?sfvrsn=2" width="500" height="100"/>
 ## [Native Script](nativescript.org)
 NativeScript is used to build native android and IOS mobile apps. You can use a combination of Angular and NativeScript, Vue.js and NativeScript, or JavaScript/TypeScript and NativeScript. 
 
+There is a community initiative to make a hybrid of React and NativeScript. 
 ![And here's a table from React NativeScript creator Jamie Birch comparing React and React NativeScript.](https://d2odgkulk9w7if.cloudfront.net/images/default-source/blogs/react-ns-differences.png?sfvrsn=46850cfe_0)
 
 ### Pros
