@@ -13,8 +13,7 @@ labels:
 
 ---	
 I’ve only used React to make web apps. I have limited brainspace so I’d rather just stick with what I know about React (which isn’t much). But technology is always changing so maybe there’s something new out there worth learning.
-
-![React Native Logo](https://reactnative.dev/img/header_logo.svg | width=300 height=300)
+<img src="https://reactnative.dev/img/header_logo.svg"  width="300" height="300" />
 ## [React Native](https://reactnative.dev/)
 
 It’s called React because it’s reactive, meaning the appearance of the page will change without manually refreshing it. Think of this like a mantra and repeat it before you go to bed every night, “Change in props to change state to trigger rerender.” 
@@ -33,7 +32,7 @@ React Native is a little different than React, as it uses native components inst
 * still will have to learn React Native Specifics
 * third party plugins
 
-![NativeScript Logo](https://www.nativescript.org/images/default-source/logos/nativescript-logo.png?sfvrsn=2)
+<img src="https://www.nativescript.org/images/default-source/logos/nativescript-logo.png?sfvrsn=2" width="500" height="250"/>
 ## [Native Script](nativescript.org)
 NativeScript is used to build native android and IOS mobile apps. You can use a combination of Angular and NativeScript, Vue.js and NativeScript, or JavaScript/TypeScript and NativeScript. 
 
@@ -50,7 +49,8 @@ NativeScript is used to build native android and IOS mobile apps. You can use a 
 * React NativeScript has not been fully developed (and is community developed)
 * Learning curve with Angular or Vue.js
 
-![Flutter Logo](https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png | width=500 height=250)
+<img src="https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png" width="500" height="250"/>
+
 ## [Flutter](https://reactnative.dev/)
 
 Flutter launched in 2017 and is Google’s UI toolkit utilizing a language called Dart. While I’ve never heard of Dart before, there is decent, well organized documentation for it. Flutter has documentation specific for developers who have experience in React and who now want to learn Flutter. 
