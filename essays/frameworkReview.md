@@ -12,14 +12,9 @@ labels:
   - Flutter
 
 ---	
+I’ve only used React to make web apps. I have limited brainspace so I’d rather just stick with what I know about React (which isn’t much). But technology is always changing so maybe there’s something new out there worth learning.
 
-To this day I’ve only used React to make web apps. I have limited brainspace so I’d rather just stick with what I know about React (which isn’t much). But technology is always changing so maybe there’s something new out there worth learning.
-
-First, here’s a quick run down of React Native.
-
-
-![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K | =300x300)
-
+![React Native Logo](https://reactnative.dev/img/header_logo.svg)
 ## [React Native](https://reactnative.dev/)
 
 It’s called React because it’s reactive, meaning the appearance of the page will change without manually refreshing it. Think of this like a mantra and repeat it before you go to bed every night, “Change in props to change state to trigger rerender.” 
@@ -35,19 +30,24 @@ React Native is a little different than React, as it uses native components inst
 * still will have to learn React Native Specifics
 * React Native was made by FaceBook and FaceBook is evil
 
+![NativeScript Logo](https://www.nativescript.org/images/default-source/logos/nativescript-logo.png?sfvrsn=2)
 ## [Native Script](nativescript.org)
 NativeScript is used to build native android and IOS mobile apps. You can use a combination of Angular and NativeScript, Vue.js and NativeScript, or JavaScript/TypeScript and NativeScript. 
 
-I tried out a sample from NativeScript’s website but it required me to download 2 different mobile apps, NativeScript Preview and NativeScript Playground. 
+I tried out a sample from NativeScript’s website but it required me to download 2 different mobile apps, NativeScript Preview and NativeScript Playground. The sample applications look and function alright but NativeScript doesn't have as many compa
 
 
 ![And here's a table from React NativeScript creator Jamie Birch comparing React and React NativeScript.](https://d2odgkulk9w7if.cloudfront.net/images/default-source/blogs/react-ns-differences.png?sfvrsn=46850cfe_0)
 
 ### Pros
+* lots of free working examples and samples with code [on NativeScript MarketPlace](https://market.nativescript.org/)
+* React NativeScript combines React and NativeScript
 
 ### Cons
-* React NativeScript has not been fully developed
+* React NativeScript has not been fully developed (and is community developed)
+* Learning curve with Angular or Vue.js
 
+![Flutter Logo](https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png)
 ## [Flutter](https://reactnative.dev/)
 
 Flutter is Google’s UI toolkit and it uses a language called Dart. While I’ve never heard of Dart before, there is decent, well organized documentation for it. Flutter has documentation specific for developers who have experience in React and who now want to learn Flutter. 
@@ -58,7 +58,10 @@ Flutter is Google’s UI toolkit and it uses a language called Dart. While I’v
 ### Pros
 * Used to make apps for Google, Ebay and more
 * Decent Documentation
+* Build Native apps for mobile, web and desktop from single codebase
 * Quinne loves Google UIs
+* Hot Reload
+* Beautiful built-in animations
 
 ### Cons 
 * Smaller community than React Native
@@ -66,19 +69,13 @@ Flutter is Google’s UI toolkit and it uses a language called Dart. While I’v
 
 ### Recommendations
 
-| Framework | Pros | Cons | 
-| React | | | 
-| NativeScript | | | 
-| Flutter |  * Really good documentation for Flutter and Dart * Special section to transition React Developers *Made and used by Google, a FANG company and could give valuable experience | The whole team would have to learn a new language and framework | 
+When giving a recommendation, it’s important to think about the needs of the user while also acknowledging certain technical restraints. CSExplore will most likely be accesed through a mobile device and is assumed to be an IOS/Android app. The problem with that is that users will have to download the app to access the contents if there is no mobile web version. 
 
-When giving a recommendation, it’s important to think about the needs of the user while also acknowledging certain technical restraints. CSExplore will most likely be accesed through a mobile device and is assumed to be an IOS/Android app. The problem with that is that user’s will have to download the app to access the contents. 
+#### Recommendation Big Gamble: Flutter
+As a user, I adore Google apps UI. It's simple, clean and functional (at least from the user standpoint). But trying to use Flutter is a huge gamble for our team. I'm pretty sure none of us has learned Dart so we'd all be starting at the beginning. Will it be worth it to learn about Dart and Flutter just to make a beautiful app? Having a beautiful app that's also functional can help show these students what's possible at (just) the college level. Just like you would never trust a skinny chef, why would you trust a janky app to teach you about Computer Science?
 
-#### Recommendation Performance and UI: Flutter
-As a user, I adore Google apps UI. It's simple, clean and functional (at least from the user standpoint). 
-
-
-### Recommendation Fast Production Time and Compatibility with RadGrad2: React Native
-The development team for CSExplore has experience with React so making an app with React Native shouldn't be too much of a stretch. 
+### Recommendation Play It Safe: React Native
+The development team for CSExplore has experience with React so making an app with React Native shouldn't be too much of a stretch. Using React Native is less of a gamble.
 
 
 ## Articles and APIs
