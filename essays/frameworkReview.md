@@ -69,4 +69,4 @@ When giving a recommendation, it’s important to think about the needs of the u
 
 #### Overall Recommendation
 NativeScript with React. The people working on this project have experience with React and JavaScript, which can be used with NativeScript to build a mobile application. 
-
+![](https://d2odgkulk9w7if.cloudfront.net/images/default-source/blogs/react-nativescript-logo.png?sfvrsn=34850cfe_0)
