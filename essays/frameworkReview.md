@@ -14,7 +14,7 @@ labels:
 ---	
 I’ve only used React to make web apps. I have limited brainspace so I’d rather just stick with what I know about React (which isn’t much). But technology is always changing so maybe there’s something new out there worth learning.
 
-![React Native Logo](https://reactnative.dev/img/header_logo.svg)
+![React Native Logo](https://reactnative.dev/img/header_logo.svg | =300x300)
 ## [React Native](https://reactnative.dev/)
 
 It’s called React because it’s reactive, meaning the appearance of the page will change without manually refreshing it. Think of this like a mantra and repeat it before you go to bed every night, “Change in props to change state to trigger rerender.” 
@@ -44,6 +44,7 @@ NativeScript is used to build native android and IOS mobile apps. You can use a 
 * Similar to React Native, it has pre-built components
 * Can make one app for IOS, Android and web instead of making one for each specific mobileOS
 * React NativeScript combines React and NativeScript
+* Flexibility to choose between Angular, Vue.js or JS/TS
 
 ### Cons
 * React NativeScript has not been fully developed (and is community developed)
@@ -73,14 +74,13 @@ Flutter launched in 2017 and is Google’s UI toolkit utilizing a language calle
 * potentially harder to customize UI wise because widgets do not adapt to different platforms automatically
 
 ### Recommendations
-
-When giving a recommendation, it’s important to think about the needs of the user while also acknowledging certain technical restraints. CSExplore will most likely be accesed through a mobile device and is assumed to be an IOS/Android app. The problem with that is that users will have to download the app to access the contents if there is no mobile web version. 
+When giving a recommendation, it’s important to think about the needs of the user while also acknowledging certain technical restraints. CSExplore will most likely be accesed through a mobile device and is assumed to be an IOS/Android app. The problem with that is that users will have to download the app to access the contents if there is no mobile web version. There is also a learning curve, regardless of what framework we decide to go with (although there isn't much of one if we go with React Native).
 
 #### Big Gamble: Flutter
 As a user, I adore Google apps UI. It's simple, clean and functional (at least from the user standpoint). But trying to use Flutter is a huge gamble for our team. I'm pretty sure none of us has learned Dart so we'd all be starting at the beginning. Will it be worth it to learn about Dart and Flutter just to make a beautiful app? Having a beautiful app that's also functional can help show these students what's possible at (just) the college level. Just like you would never trust a skinny chef, why would you trust a janky app to teach you about Computer Science?
 
 ### Play It Safe: React Native
-The development team for CSExplore has experience with React so making an app with React Native shouldn't be too much of a stretch. Using React Native is less of a gamble. There's a huge community and this framework has been used to make TONS of apps already. While these apps are not as asthetically pleasing as apps made with Flutter, they are still functional and most users can't really tell (or don't care about) the difference. 
+The development team for CSExplore has experience with React so making an app with React Native shouldn't be too much of a stretch. Using React Native is less of a gamble. There's a huge community and this framework has been used to make TONS of apps already. While these apps are decent to use they're not as asthetically pleasing as apps made with Flutter. But, they are still functional and most users can't really tell (or don't care about) subtle differences.
 
 
 ## Readings Used
