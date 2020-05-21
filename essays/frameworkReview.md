@@ -14,7 +14,7 @@ labels:
 ---	
 I’ve only used React to make web apps. I have limited brainspace so I’d rather just stick with what I know about React (which isn’t much). But technology is always changing so maybe there’s something new out there worth learning.
 
-![React Native Logo](https://reactnative.dev/img/header_logo.svg | =300x300)
+![React Native Logo](https://reactnative.dev/img/header_logo.svg =300x300)
 ## [React Native](https://reactnative.dev/)
 
 It’s called React because it’s reactive, meaning the appearance of the page will change without manually refreshing it. Think of this like a mantra and repeat it before you go to bed every night, “Change in props to change state to trigger rerender.” 
