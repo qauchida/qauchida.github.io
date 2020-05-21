@@ -16,6 +16,7 @@ I’ve only used React to make web apps. I have limited brainspace so I’d rath
 
 
 <img src="https://reactnative.dev/img/header_logo.svg"  width="300" height="300" />
+
 ## [React Native](https://reactnative.dev/)
 
 It’s called React because it’s reactive, meaning the appearance of the page will change without manually refreshing it. Think of this like a mantra and repeat it before you go to bed every night, “Change in props to change state to trigger rerender.” 
@@ -35,6 +36,7 @@ React Native is a little different than React, as it uses native components inst
 * third party plugins
 
 <img src="https://www.nativescript.org/images/default-source/logos/nativescript-logo.png?sfvrsn=2" width="500" height="100"/>
+
 ## [Native Script](nativescript.org)
 NativeScript is used to build native android and IOS mobile apps. You can use a combination of Angular and NativeScript, Vue.js and NativeScript, or JavaScript/TypeScript and NativeScript. 
 
