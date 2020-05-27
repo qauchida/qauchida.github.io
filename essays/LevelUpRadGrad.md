@@ -18,25 +18,13 @@ I suspect that a lack of experience points may also be holding others back from 
 
 ## My New Discovery
 
-|Innovation points| # of opportunities |
-| --- | --- |
-| 25 | 2 |
-| 20 | 20 | 
-| 15 | 4 |
-| 10 | 12 | 
-| 5 | 7|
+<img src="https://qauchida.github.io/images/table1.png"/> 
 
 
 I counted 45 innovation earning opportunities. Of those 45, 4% give 25 innovation points, 44% give 20 points, 9% give 15 points, 27% give 10 points and 16% give 5 points. The majority of these innovation earning opportunities give 20 points. 
 
 
-| Experience Points | # of opportunities | 
-| --- | --- |
-| 25 | 4 |
-| 20 | 4 |
-| 15 | 12 |
-| 10 | 7 | 
-| 5 | 14 |
+<img src="https://qauchida.github.io/images/table2.png"/> 
 
 I counted 41 experience earning opportunities. Of these 41, 10% give 25 points, 10% give 20 points, 29% give 15 points, 17% give 10 points and 34% give 5 points. The majority of these experience earning opportunities give 5 points.  The big ticket items in the Experience category are internships. The reason the points are structured this way is to incentivize students to get internships. However, if a student is more interested in research, they might never do an internship. Does this mean they are not as qualified as a student who has done an internship?
 
