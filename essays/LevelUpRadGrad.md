@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: RadGrad Level Up
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-126
+date: 2020-05-26
 labels:
   - Education
 
