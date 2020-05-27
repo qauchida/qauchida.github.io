@@ -54,3 +54,5 @@ Where would it go? I have no idea. Would it even be useful? No clue. Could stude
 
 I think there needs to be modifications to the verification system. There are only a few moderators and yet a lot of students. If RadGrad was integrated into student advising, we could also have the Academic Advisor be another moderator who verifies student participation in opportunities, and in turn they would share the workload with the current moderators. If we don’t increase the number of moderators, we may have to come up with an automated way of verifying opportunities. 
 
+Gerald Lau, the current ICS major advisor, is planning to retire in the next academic year. If we are able to get Gerald's sucessor on board with not only integrating RadGrad into advising, but also taking a larger active role in moderating RadGrad, it could make the RadGrad model more sustainable for other departments and univerisities. 
+
