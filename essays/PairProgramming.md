@@ -22,7 +22,7 @@ Although the web editor has built in video chat capabilities, it doesn't have an
 
 ## Session 1: Up and Running
 
-In this session, I worked with (Angeli Amascual)[https://angeli-amascual.github.io/] for 20 minutes on 05/29/2020. Before we jumped right into using it, we talked for a bit about how this was going to work. We could try to use Zoom at the same time while using the Floobits plugin. 
+In this session, I worked with [Angeli Amascual](https://angeli-amascual.github.io/) for 20 minutes on 05/29/2020. Before we jumped right into using it, we talked for a bit about how this was going to work. We could try to use Zoom at the same time while using the Floobits plugin. 
 
 ## Session 2: Trying to Break It
 
