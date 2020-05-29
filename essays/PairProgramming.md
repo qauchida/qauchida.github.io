@@ -26,7 +26,7 @@ In this session, I worked with [Angeli Amascual](https://angeli-amascual.github.
 
 ## Session 2: Trying to Break It
 
-In this session, our research group wanted to see what happens when all 4 of us try to work at the same time. Angeli, [Max](https://maxdeyo.github.io/), [Hana](http://hannaparkuh.github.io/) and I all tried to work on the same thing on 05/30/2020 around 1:30pm. 
+In this session, our research group wanted to see what happens when all 4 of us try to work at the same time. Angeli, [Max Deyo](https://maxdeyo.github.io/), [Hanna Park](http://hannaparkuh.github.io/) and I all tried to work on the same thing on 05/30/2020 around 1:30pm. 
 
 ## Session 3:
 
