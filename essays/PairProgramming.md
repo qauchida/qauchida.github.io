@@ -24,7 +24,9 @@ Although the web editor has built in video chat capabilities, it doesn't have an
 
 ## Session 1: Up and Running
 
-In this session, I worked with [Angeli Amascual](https://angeli-amascual.github.io/) from 12:00 to 12:30 on 05/29/2020. Before we jumped right into using it, we talked for a bit about how this was going to work. We could try to use Zoom at the same time while using the Floobits plugin. I already created a workspace on Floobits, so I invited her to my workspace. 
+In this session, I worked with [Angeli Amascual](https://angeli-amascual.github.io/) from 12:00 to 12:30 on 05/29/2020. Before we jumped right into using it, we talked for a bit about how this was going to work. We used Zoom at the same time as floobits so we could screen share our locally rendered version of radgrad.github.io and talk through our code. First, I invited Angeli to my workspace and talked through what I was doing while showing her my code. Then, she invited me to her workspace and did the same. I had trouble connecting to her workspace through the IntelliJ plugin so I had to settle on using the web editor. After we ended our Zoom call, I was able to join her workspace and use the IntelliJ plugin. 
+
+30 minutes felt super short. We used most of our time just trying to get the hang of using Floobits and we didn't try to make changes to our code during this session. 
 
 ## Session 2: Trying to Break It
 
