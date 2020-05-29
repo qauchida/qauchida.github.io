@@ -1,0 +1,22 @@
+---
+layout: essay
+type: essay
+title: Pair Programming
+# All dates must be YYYY-MM-DD format!
+date: 2020-05-29
+labels:
+  - Education
+  - IntelliJ
+---	
+
+Due to the current circumstances of the world right now caused by covid-19, people have been forced to find new ways to work together while still maintaining physical distance.
+Computer programmers are stereotyped to be reclusive and to avoid human contact but the reality is that in person collboration is essential when trying to create a group project. This summer, I am participating in a research team and we experimented with remote pair programming.
+
+## Session 1: Up and Running
+
+In this session, I worked with (Angeli Amascual)[https://angeli-amascual.github.io/] for 20 minutes on 05/29/2020. We used 
+
+## Session 2: Trying to Break It
+
+In this session, our research group wanted to see what happens when all 4 of us try to work at the same time. 
+
