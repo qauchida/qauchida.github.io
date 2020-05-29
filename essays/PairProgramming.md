@@ -18,6 +18,8 @@ I wasn't able to open that file in IntelliJ and decided to overwrite the remote 
 
 I found that if you use the web editor, you can video chat at the same time, without having to open another program up. It doesn't look like you can do the same thing using the intelliJ plugin so if I wanted to video or voice chat, I would have to open up another program. 
 Although the web editor has built in video chat capabilities, it doesn't have any of the convieneces of the intelliJ features I use the most like the vim emulator or the "shift shift" search shortcut. 
+
+
 [![Floobits Status](https://floobits.com/qauchida/docusaurus2.svg)](https://floobits.com/qauchida/docusaurus2/redirect)
 
 ## Session 1: Up and Running
