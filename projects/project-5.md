@@ -10,6 +10,7 @@ labels:
   - JavaScript
   - React Native
   - Expo
+  - Research
 summary: As part of a summer undergraduate research experience, I was part of team working on producing a mobile application for Hawaii high school students. The team presented our work at the SURE symposium at the University of Hawaii at Manoa.
 ---
 
@@ -22,5 +23,7 @@ summary: As part of a summer undergraduate research experience, I was part of te
 ## Who Are We Making This For?
 
 ## Presenting to a Wider Audience
+
+## Participating in a Virtual Symposium
 
 ## Challenges and Lessons Learned
