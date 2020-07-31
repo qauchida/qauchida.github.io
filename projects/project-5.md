@@ -1,4 +1,3 @@
-
 ---
 layout: project
 type: project
@@ -14,4 +13,14 @@ labels:
 summary: As part of a summer undergraduate research experience, I was part of team working on producing a mobile application for Hawaii high school students. The team presented our work at the SURE symposium at the University of Hawaii at Manoa.
 ---
 
+# CSExplore
 
+## A Blank Canvas
+
+## 2 Roads Diverged 
+
+## Who Are We Making This For?
+
+## Presenting to a Wider Audience
+
+## Challenges and Lessons Learned
