@@ -25,5 +25,6 @@ summary: As part of a summer undergraduate research experience, I was part of te
 ## Presenting to a Wider Audience
 
 ## Participating in a Virtual Symposium
+![Screenshot of a Few Participants in Our Poster Session](https://imgur.com/a/3nxa5mT)
 
 ## Challenges and Lessons Learned
