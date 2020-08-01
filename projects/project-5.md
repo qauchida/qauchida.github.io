@@ -14,9 +14,9 @@ labels:
 summary: As part of a summer undergraduate research experience, I was part of team working on producing a mobile application for Hawaii high school students. The team presented our work at the SURE symposium at the University of Hawaii at Manoa.
 ---
 
-# CSExplore
-
 ## A Blank Canvas
+
+![Initial Mock Up](https://i.imgur.com/U9lr74x.png)
 
 ## 2 Roads Diverged 
 
@@ -25,6 +25,6 @@ summary: As part of a summer undergraduate research experience, I was part of te
 ## Presenting to a Wider Audience
 
 ## Participating in a Virtual Symposium
-![Screenshot of a Few Participants in Our Poster Session](https://imgur.com/a/3nxa5mT)
+![Screenshot of a Few Participants in Our Poster Session]( )
 
 ## Challenges and Lessons Learned
