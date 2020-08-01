@@ -27,13 +27,15 @@ I won’t go into too much detail, but each prototype attempts to appeal to a st
 ![Inital Mockup Robot](https://i.imgur.com/plvcphT.png)
 
 ## 2 Roads Diverged 
+After the group presented various prototypes, we began making individual apps using Expo, React Native and JavaScript/TypeScript. During this time, I practiced using the Expo and React Native toolchain. I mainly used functional components for this version of the app while using the
+```useState()``` [Hook](https://reactjs.org/docs/hooks-state.html), rather than making class based components and having to call a constructor for props and state. 
 
+[You can find the repo of this prototype here](https://github.com/radgrad/CSExplore-Quinne). After viewing work done by my other group members, it seemed Angeli and I had similar design principles. We used a lot of graphics rather than text, attempted to reflect Hawaiian themes in the user interface design and made the prototypes similar to role playing games. Going forward, we attempted to combine our designs into one application while Max and Hanna teamed up to produce theirs. 
 
-## Who Are We Making This For?
-
-## Presenting to a Wider Audience
+## A Whimisical Side 
 
 ## Participating in a Virtual Symposium
 ![Screenshot of a Few Participants in Our Poster Session]( )
 
 ## Challenges and Lessons Learned
+
