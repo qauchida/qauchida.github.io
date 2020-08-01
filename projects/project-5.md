@@ -38,8 +38,8 @@ The majority of this project was spent designing the whimsical approach with Ang
 ## Participating in a Virtual Symposium
 In addition to creating the application, Angeli, Max, Hanna and I presented our work at the 2020 SURE symposium. This was the second time I've presented a research poster but this was my first time doing so virtually. It was not as fun as an in-person symposium but it was able to run smoothly with little technical difficulty.
 
-Below is a gif of our poster, containing animated gifs that were possible because of the virutal format. 
-![Gif of our poster](https://i.imgur.com/HmpR6pz.mp4)
+Below is a screenshot of our poster during our Zoom presentation. 
+![Poster](https://media.discordapp.net/attachments/724794049281785887/738860390951157840/unknown.png?width=1295&height=666)
 
 The next step of our project is to carrying out our user evaluation with high school students, to determine if the future of the Whimsical and Professional approaches. Based on those results, the development team can then code more features of the app, link a database and deploy a product available at the Apple App store or Google Play store. 
 
