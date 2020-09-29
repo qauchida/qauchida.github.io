@@ -43,14 +43,14 @@ In addition to creating the application, Angeli, Max, Hanna and I presented our 
 
 Below is a screenshot of our poster during our Zoom presentation. 
 
-<img class="ui bordered responsive image" src="https://media.discordapp.net/attachments/724794049281785887/738860390951157840/unknown.png?width=1295&height=666" width=700 height=450/>
+<img class="ui bordered responsive image" src="https://media.discordapp.net/attachments/724794049281785887/738860390951157840/unknown.png?width=1295&height=666" />
 
 
 The next step of our project is to carrying out our user evaluation with high school students, to determine if the future of the Whimsical and Professional approaches. Based on those results, the development team can then code more features of the app, link a database and deploy a product available at the Apple App store or Google Play store. 
 
 Below is a picture of some participants in our virtual session.
 
-<img class="ui bordered responsive image" src="https://i.imgur.com/eM4xwc5.png" width=700 height=450/>
+<img class="ui bordered responsive image" src="https://i.imgur.com/eM4xwc5.png"/>
 
 
 
