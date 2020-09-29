@@ -69,6 +69,17 @@
     }
   ],
   "education": [
+     {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2021)",
+      "studyType": "B.S.",
+      "startDate": "2018-08-12",
+      "endDate": "Present",
+      "gpa": "3.19",
+      "courses": [
+        "Discrete Math II", "Data Visualization"
+      ]
+    },
     {
       "institution": "Kapiolani Community College, Honolulu, HI",
       "area": "Computer Science",
@@ -79,25 +90,30 @@
       "courses": [
         "Discrete Math for Comupter Science I", "Introduction to Computer Science I & II (Taught in Java)", "Program Structure (Taught in C)", "Introduction to Microbiology"
       ]
-    }, {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
-      "studyType": "B.S.",
-      "startDate": "2018-08-12",
-      "endDate": "Present",
-      "gpa": "3.19",
-      "courses": [
-        "Discrete Math II", "Data Visualization"
-      ]
     }
   ],
   "work": [
+    {"company": "University of Hawaii Collaborative Software Development Lab: Project RadGrad",
+     "position": "Student Software Engineer"
+     "website:" "https://csdl.ics.hawaii.edu/",
+     "startDate": "2019-06-01",
+     "endDate": "present",
+     "summary": "This position involves both research and development. The research component involves the design and implementation of studies and/or social interventions to address problems in the undergraduate ICS degree experience, with a particular focus on women and underrepresented groups. The development component involves design and implementation of the RadGrad system. This position requires analysis of data; independent work and decision making; substantial knowledge of Javascript, MongoDB, ESLint, Semantic UI, HTML, and CSS; and the ability to successfully work with and/or manage other students.",
+     "highlights": [
+     "Mobile application development with React Native and Expo tool chain",
+     "Presenting academic research poster on project CSExplore at SURE Symposium 2020",
+     "Presenting academic research poster on user study analysis at SACNAS 2020",
+     "Design and implement additional software features for the existing RadGrad system",
+     "Project management using Github",
+     "Web application development with the React, Meteor and MongoDB toolchain"
+     ]
+    },
     {
       "company": "University of Hawaii Department of Information Computer Science IT Help Desk",
       "position": "Student Help Desk",
       "website": "",
       "startDate": "2018-10-01",
-      "endDate": "Present",
+      "endDate": "2019-06-01",
       "summary": "Student assitant to full time employees",
       "highlights": [
         "Creating new User accounts every semester using Active Directory, Powershell scripts and Windows Batch files.",
