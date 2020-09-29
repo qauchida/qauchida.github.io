@@ -94,7 +94,8 @@
     }
   ],
   "work": [
-    {"company": "University of Hawaii Collaborative Software Development Lab: Project RadGrad",
+    {
+     "company": "University of Hawaii Collaborative Software Development Lab: Project RadGrad",
      "position": "Student Software Engineer"
      "website:" "https://csdl.ics.hawaii.edu/",
      "startDate": "2019-06-01",
