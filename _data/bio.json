@@ -95,20 +95,21 @@
   ],
   
   "work": [
-   {
-      "company":  "University of Hawaii Collaborative Software Development Lab: Project RadGrad",
+    {
+     "company":  "University of Hawaii Collaborative Software Development Lab: Project RadGrad",
       "position": "Student Software Engineer",
       "website": "https://csdl.ics.hawaii.edu/",
       "startDate": "2019-06-01",
       "endDate": "present",
-     "summary": "Develop software and conduct academic research",
-     "highlights": [
-     "Mobile application development with React Native and Expo tool chain",
-     "Presenting academic research poster on project CSExplore at SURE Symposium 2020",
-     "Presenting academic research poster on user study analysis at SACNAS 2020",
-     "Design and implement additional software features for the existing RadGrad system",
-     "Project management using Github",
-     "Web application development with the React, Meteor and MongoDB toolchain"
+      "summary": "Develop software and conduct academic research",
+      "highlights": [
+      "Mobile application development with React Native and Expo tool chain",
+      "Presenting academic research poster on project CSExplore at SURE Symposium 2020",
+      "Presenting academic research poster on user study analysis at SACNAS 2020",
+      "Design and implement additional software features for the existing RadGrad system",
+      "Project management using Github",
+      "Web application development with the React, Meteor and MongoDB toolchain"
+      ]
     },
     {
       "company": "University of Hawaii Department of Information Computer Science IT Help Desk",
