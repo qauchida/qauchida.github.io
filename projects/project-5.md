@@ -21,8 +21,11 @@ Initially, we designed individual wireframe mockups using Figma. Below, there ar
 I won’t go into too much detail, but each prototype attempts to appeal to a student not currently interested in Computer Science. 
 
 <img src="https://i.imgur.com/U9lr74x.png" width=700 height=450/>
+
 <img src="https://i.imgur.com/abHcDjo.png" width=700 height=500/>
+
 <img src="https://i.imgur.com/nmrHesH.png" width=700 height=150/>
+
 <img src="https://i.imgur.com/plvcphT.png" width=700 height=150/>
 
 ## 2 Roads Diverged 
@@ -31,8 +34,8 @@ After the group presented various prototypes, we began making individual apps us
 
 [You can find the repo of this prototype here](https://github.com/radgrad/CSExplore-Quinne). After viewing work done by my other group members, it seemed Angeli and I had similar design principles. We used a lot of graphics rather than text, attempted to reflect Hawaiian themes in the user interface design and made the prototypes similar to role playing games. Going forward, we attempted to combine our designs into one application while Max and Hanna teamed up to produce theirs. 
 
-## A Whimisical Side 
-The majority of this project was spent designing the whimsical approach with Angeli. You can [see the repo for this application here](https://github.com/radgrad/csexplore-angeliquinne) and a [preview of the application here](https://expo.io/@qauchida/csexplore_whimsical). The app preview works best if you download the Expo mobile app. I drew all of the bakcgrounds four main areas using an Ipad and Adobe Draw, as well as the faces of the TestBot. I was also tasked with programming the home screen, the TestBot and all the screens for the Town which included the HTML emulator. 
+## A Whimsical Side 
+The majority of this project was spent designing the whimsical approach with Angeli. You can [see the repo for this application here](https://github.com/radgrad/csexplore-angeliquinne) and a [preview of the application here](https://expo.io/@qauchida/csexplore_whimsical). The app preview works best if you download the Expo mobile app. I drew all of the backgrounds four main areas using an Ipad and Adobe Draw, as well as the faces of the TestBot. I was also tasked with programming the home screen, the TestBot and all the screens for the Town which included the HTML emulator. 
 
 ## Participating in a Virtual Symposium
 In addition to creating the application, Angeli, Max, Hanna and I presented our work at the 2020 SURE symposium. This was the second time I've presented a research poster but this was my first time doing so virtually. It was not as fun as an in-person symposium but it was able to run smoothly with little technical difficulty.
