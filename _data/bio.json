@@ -54,7 +54,8 @@
         "Java",
         "Javascript",
         "HTML",
-        "CSS"
+        "CSS",
+        "React"
       ]
     },
     {
@@ -72,12 +73,12 @@
      {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
-      "studyType": "B.S.",
+      "studyType": "B.A.",
       "startDate": "2018-08-12",
       "endDate": "Present",
-      "gpa": "3.19",
+      "gpa": "3.50",
       "courses": [
-        "Discrete Math II", "Data Visualization"
+        "Discrete Math II", "Data Visualization", "Algorithms", "Software Engineering", "Database Systems", "Digital Forensics", "Introduction to Linear Algebra"
       ]
     },
     {
