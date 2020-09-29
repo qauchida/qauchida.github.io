@@ -20,13 +20,14 @@ In the summer of 2020, I participated in an undergraduate research experience at
 Initially, we designed individual wireframe mockups using Figma. Below, there are a few different prototypes I created, which eventually manifested in one of the current iterations.
 I won’t go into too much detail, but each prototype attempts to appeal to a student not currently interested in Computer Science. 
 
-<img src="https://i.imgur.com/U9lr74x.png" width=700 height=450/>
+<img class="ui bordered responsive image" src="https://i.imgur.com/U9lr74x.png" />
 
-<img src="https://i.imgur.com/abHcDjo.png" width=700 height=500/>
+<img class="ui bordered responsive image" src="https://i.imgur.com/abHcDjo.png" />
 
-<img src="https://i.imgur.com/nmrHesH.png" width=700 height=150/>
+<img class="ui bordered responsive image" src="https://i.imgur.com/nmrHesH.png" />
 
-<img src="https://i.imgur.com/plvcphT.png" width=700 height=150/>
+<img class="ui bordered responsive image" src="https://i.imgur.com/plvcphT.png" />
+
 
 ## 2 Roads Diverged 
 After the group presented various prototypes, we began making individual apps using Expo, React Native and JavaScript/TypeScript. During this time, I practiced using the Expo and React Native toolchain. I mainly used functional components for this version of the app while using the
@@ -42,14 +43,14 @@ In addition to creating the application, Angeli, Max, Hanna and I presented our 
 
 Below is a screenshot of our poster during our Zoom presentation. 
 
-<img src="https://media.discordapp.net/attachments/724794049281785887/738860390951157840/unknown.png?width=1295&height=666" width=700 height=450/>
+<img class="ui bordered responsive image" src="https://media.discordapp.net/attachments/724794049281785887/738860390951157840/unknown.png?width=1295&height=666" width=700 height=450/>
 
 
 The next step of our project is to carrying out our user evaluation with high school students, to determine if the future of the Whimsical and Professional approaches. Based on those results, the development team can then code more features of the app, link a database and deploy a product available at the Apple App store or Google Play store. 
 
 Below is a picture of some participants in our virtual session.
 
-<img src="https://i.imgur.com/eM4xwc5.png" width=700 height=450/>
+<img class="ui bordered responsive image" src="https://i.imgur.com/eM4xwc5.png" width=700 height=450/>
 
 
 
