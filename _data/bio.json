@@ -76,7 +76,7 @@
       "studyType": "B.A.",
       "startDate": "2018-08-12",
       "endDate": "Present",
-      "gpa": "3.50",
+      "gpa": "3.38",
       "courses": [
         "Discrete Math II", "Data Visualization", "Algorithms", "Software Engineering", "Database Systems", "Digital Forensics", "Introduction to Linear Algebra"
       ]
@@ -95,12 +95,19 @@
   ],
   
   "work": [
+{
+"company": "Honolulu City Prosecutor's Office",
+"position": "legal intern",
+"start date": "2021-01-12",
+"end date": "present"
+
+},
     {
      "company":  "University of Hawaii Collaborative Software Development Lab: Project RadGrad",
       "position": "Student Software Engineer",
       "website": "https://csdl.ics.hawaii.edu/",
       "startDate": "2019-06-01",
-      "endDate": "present",
+      "endDate": "2020-10-20",
       "summary": "Develop software and conduct academic research",
       "highlights": [
       "Mobile application development with React Native and Expo tool chain",
